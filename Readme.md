@@ -2,6 +2,7 @@
 
 * Студент: [Полина Мильниченко](https://up.htmlacademy.ru/htmlcss-individual/3/user/2583001).
 * Наставник: [Оксана Вайнруб](https://htmlacademy.ru/profile/id166797).
+* Сайт: [Мой проект Седона](https://alievaanzhelika.github.io/2583001-sedona-3/).
 
 ---
 
