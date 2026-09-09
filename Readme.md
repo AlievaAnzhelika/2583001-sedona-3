@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Полина Мильниченко](https://up.htmlacademy.ru/htmlcss-individual/3/user/2583001).
-* Наставник: `Неизвестно`.
+* Наставник: [Оксана Вайнруб](https://htmlacademy.ru/profile/id166797).
 
 ---
 
